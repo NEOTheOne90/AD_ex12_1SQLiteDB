@@ -1,4 +1,4 @@
-# ex12_1 SQLiteDB
+# Android Studio ex12_1 SQLiteDB
 
 # DB생성
 
